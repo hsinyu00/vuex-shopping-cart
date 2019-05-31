@@ -1,0 +1,28 @@
+{
+    "products": [
+        {
+            "id": "product5",
+            "name": "iPhone 6 Plus",
+            "price": 17000,
+            "image": "data/images/iphone-6-plus.jpg"
+        },
+        {
+            "id": "product6",
+            "name": "Nokia Lumia 1520",
+            "price": 12500,
+            "image": "data/images/nokia-lumia-1520.jpg"
+        },
+        {
+            "id": "product7",
+            "name": "Samsung Galaxy Note 4",
+            "price": 18500,
+            "image": "data/images/samsung-galaxy-note-4.png"
+        },
+        {
+            "id": "product8",
+            "name": "Sony Xepria Z5",
+            "price": 20500,
+            "image": "data/images/sony-z5.png"
+        }
+    ]
+}
